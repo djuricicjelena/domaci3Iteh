@@ -33,3 +33,21 @@
   justify-content: center;
   margin-top: 50px;
 }
+
+#digimoni_pretraga_nav {
+  margin-left: 30px;
+}
+
+#pretraga_input {
+  margin-top: 10vh;
+  width: 350px;
+}
+
+#button_pretraga {
+  width: 150px;
+  font-size: 20px;
+}
+
+#digimon_search {
+  margin-left: 70%;
+}
